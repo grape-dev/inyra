@@ -7,4 +7,4 @@
 loadstring()
 ```
 
--- [Site🌠](https://inyra.cc)
+For more information please vist our [Site🌠](https://inyra.cc)
