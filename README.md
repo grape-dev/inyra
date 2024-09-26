@@ -1,1 +1,7 @@
-# inyra [Site🌠](https://inyra.cc)
+# inyra
+
+```lua
+loadstring()
+```
+
+[Site🌠](https://inyra.cc)
